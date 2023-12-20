@@ -1,7 +1,7 @@
 <h1>Curso de Java e Spring Boot </h1>
 <p>Repositório criado com o intuito de deixar os códigos realizados durante o curso "Java and Spring Framework for Beginners with Spring Boot", na plataforma Udemy</p>
-<p>Progresso do curso: 20%</p>
-<p>Aula 59 de 262</p>
+<p>Progresso do curso: 25%</p>
+<p>Aula 67 de 262</p>
 
 <h2>Progresso Atual em relação as seções do curso</h2>
 
