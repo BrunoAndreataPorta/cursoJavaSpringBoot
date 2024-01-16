@@ -8,9 +8,9 @@
 </head>
 <body>
 	Curso Udemy - Seção Spring MVC
-	<form action="add">
-		Entre com o 1º número: <input type="text" name="num1"><br>
-		Entre com o 2º número: <input type="text" name="num2"><br>
+	<form action="addProgrammer">
+		Entre com o seu id: <input type="text" name="pid"><br>
+		Entre com o seu nome: <input type="text" name="pname"><br>
 		<input type="submit">
 	</form>
 </body>

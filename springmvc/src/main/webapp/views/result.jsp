@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	O resultado é: ${num3}
+	O resultado é: ${p1}
+	
+	Bem vindo de votla ${name}
 </body>
 </html>
