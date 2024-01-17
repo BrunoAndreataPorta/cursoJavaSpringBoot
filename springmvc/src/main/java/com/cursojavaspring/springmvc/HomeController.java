@@ -18,7 +18,7 @@ public class HomeController
 		m.addAttribute("name", "Programadores");
 	}
 	
-	@RequestMapping(value="/index", method=RequestMethod.GET)
+	@RequestMapping(value="/springmvc/", method=RequestMethod.GET)
 	public String home()
 	{
 		return "index";
@@ -27,14 +27,11 @@ public class HomeController
 	@RequestMapping("add")
 	public String add(@RequestParam("num1") int i,@RequestParam("num2") int j, Model m)
 	{
-//		ModelAndView mv = new ModelAndView();
-//		mv.setViewName("result");
 		
 		int num3 = i + j;
 		m.addAttribute("num3", num3);
 		
 		return "result";
-//		return mv;
 	}
 	
 	@RequestMapping("addProgrammer")

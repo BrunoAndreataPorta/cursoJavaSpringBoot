@@ -12,8 +12,8 @@
         <li>[X] Getting Started</li>
         <li>[X] Spring Boot</li>
         <li>[X] Spring Core - IoC </li>
-        <li>[ ] Spring MVC (EM ANDAMENTO)</li>
-        <li>[ ] Spring ORM</li>
+        <li>[X] Spring MVC</li>
+        <li>[ ] Spring ORM(EM ANDAMENTO)</li>
         <li>[ ] Spring Data JPA</li>
         <li>[ ] Spring Rest</li>
         <li>[ ] Spring AOP</li>

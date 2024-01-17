@@ -8,7 +8,7 @@
 </head>
 <body>
 	Curso Udemy - Seção Spring MVC
-	<form action="addProgrammer">
+	<form action="addProgrammer", method="post">
 		Entre com o seu id: <input type="text" name="pid"><br>
 		Entre com o seu nome: <input type="text" name="pname"><br>
 		<input type="submit">
