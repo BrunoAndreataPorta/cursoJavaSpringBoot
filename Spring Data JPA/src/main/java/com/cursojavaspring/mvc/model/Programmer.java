@@ -1,8 +1,15 @@
 package com.cursojavaspring.mvc.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Programmer {
+	@Id
 	private int pid;
 	private String pname;
+	
+	public Programmer() {}
 	
 	public Programmer(int pid, String pname) {
 		super();
