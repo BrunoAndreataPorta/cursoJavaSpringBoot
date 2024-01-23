@@ -14,8 +14,8 @@
         <li>[X] Spring Core - IoC </li>
         <li>[X] Spring MVC</li>
         <li>[X] Spring ORM</li>
-        <li>[ ] Spring Data JPA(EM ANDAMENTO)</li>
-        <li>[ ] Spring Rest</li>
+        <li>[X] Spring Data</li>
+        <li>[ ] Spring Rest(EM ANDAMENTO)</li>
         <li>[ ] Spring AOP</li>
         <li>[ ] Spring Security</li>
         <li>[ ] Docker</li>
