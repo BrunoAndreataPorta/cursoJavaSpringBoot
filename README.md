@@ -15,8 +15,8 @@
         <li>[X] Spring MVC</li>
         <li>[X] Spring ORM</li>
         <li>[X] Spring Data</li>
-        <li>[ ] Spring Rest(EM ANDAMENTO)</li>
-        <li>[ ] Spring AOP</li>
+        <li>[X] Spring Rest</li>
+        <li>[ ] Spring AOP(EM ANDAMENTO)</li>
         <li>[ ] Spring Security</li>
         <li>[ ] Docker</li>
         <li>[ ] Microservices</li>
