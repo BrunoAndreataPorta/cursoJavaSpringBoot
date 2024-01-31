@@ -9,15 +9,17 @@
         <li>[X] Core Java</li>
         <li>[X] Maven</li>
         <li>[X] JDBC (Java Database Connectivity)</li>
-        <li>[X] Getting Started</li>
-        <li>[X] Spring Boot</li>
-        <li>[X] Spring Core - IoC </li>
-        <li>[X] Spring MVC</li>
-        <li>[X] Spring ORM</li>
-        <li>[X] Spring Data</li>
-        <li>[X] Spring Rest</li>
-        <li>[X] Spring AOP</li>
-        <li>[ ] Spring Security(EM ANDAMENTO)</li>
+        <li>[X] Getting Started with Spring 5</li>
+        <li>[X] Spring Boot (Spring 5)</li>
+        <li>[X] Spring Core - IoC (Spring 5)</li>
+        <li>[X] Spring MVC (Spring 5)</li>
+        <li>[X] Spring ORM (Spring 5)</li>
+        <li>[X] Spring Data (Spring 5)</li>
+        <li>[X] Spring Rest (Spring 5)</li>
+        <li>[X] Spring AOP (Spring 5)</li>
+        <li>[X] Spring Security (Spring 5)</li>
+        <li>[ ] Getting Started with Spring 6 (EM ANDAMENTO)</li>
+        <li>[ ] Exploring Spring Framework</li>
         <li>[ ] Docker</li>
         <li>[ ] Microservices</li>
         <li>[ ] Getting Started with Spring 6</li>
@@ -26,6 +28,13 @@
         <li>[ ] Moving to Spring Boot</li>
         <li>[ ] Spring JDBC</li>
         <li>[ ] Spring Boot Web</li>
-        <li>[ ] Exploring Web MVC without Spring Boot</li>
+        <li>[ ] Building a Project</li>
+        <li>[ ] REST using Spring Boot</li>
+        <li>[ ] Spring Data JPA</li>
+        <li>[ ] Spring AOP</li>
+        <li>[ ] Spring Security</li>
+        <li>[ ] Securing Job App</li>
+        <li>[ ] Docker</li>
+        <li>[ ] Microservices</li>
         <li>[ ] DSA</li>
     </ul>

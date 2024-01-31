@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Bem vindo!
-	<a href="/logout"></a>
+	Logout home <br>
+	<a href="/">home</a>
 </body>
 </html>
