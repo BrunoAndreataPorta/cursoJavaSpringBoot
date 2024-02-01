@@ -18,8 +18,8 @@
         <li>[X] Spring Rest (Spring 5)</li>
         <li>[X] Spring AOP (Spring 5)</li>
         <li>[X] Spring Security (Spring 5)</li>
-        <li>[ ] Getting Started with Spring 6 (EM ANDAMENTO)</li>
-        <li>[ ] Exploring Spring Framework</li>
+        <li>[X] Getting Started with Spring 6 </li>
+        <li>[ ] Exploring Spring Framework(EM ANDAMENTO)</li>
         <li>[ ] Docker</li>
         <li>[ ] Microservices</li>
         <li>[ ] Getting Started with Spring 6</li>
