@@ -19,12 +19,8 @@
         <li>[X] Spring AOP (Spring 5)</li>
         <li>[X] Spring Security (Spring 5)</li>
         <li>[X] Getting Started with Spring 6 </li>
-        <li>[ ] Exploring Spring Framework(EM ANDAMENTO)</li>
-        <li>[ ] Docker</li>
-        <li>[ ] Microservices</li>
-        <li>[ ] Getting Started with Spring 6</li>
-        <li>[ ] Exploring Spring Framework</li>
-        <li>[ ] Working with Java-Based Config</li>
+        <li>[X] Exploring Spring Framework</li>
+        <li>[ ] Working with Java-Based Config(EM ANDAMENTO)</li>
         <li>[ ] Moving to Spring Boot</li>
         <li>[ ] Spring JDBC</li>
         <li>[ ] Spring Boot Web</li>

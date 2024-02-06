@@ -7,11 +7,34 @@
 <!--    <bean id="alien" class="com.cursojava.Alien" scope="prototype">-->
 
 
-    <bean id="alien" class="com.cursojava.Alien">
-        <constructor-arg value="21"/>
-        <property name="lap" ref="lap1"></property>
+    <bean id="alien" class="com.cursojava.Alien" autowire="byType">
+
+        <property name="age" value="21"/>
+        <property name="com" ref="com1"/>
+
+        <!--Inner Bean-->
+<!--        <property name="com">-->
+<!--            <bean id="com" class="com.cursojava.Laptop" primary="true">-->
+<!--            </bean>-->
+<!--        </property>-->
+
+
+
+        <!--        <constructor-arg type="int" value="21"/>-->
+<!--        <constructor-arg type="com.cursojava.Laptop" ref="lap1"/>-->
+
+<!--        <constructor-arg index="1" ref="lap1"/>-->
+<!--        <constructor-arg index="0" value="21"/>-->
+
+<!--        <constructor-arg name="age" value="21"/>-->
+<!--        <constructor-arg name="lap" ref="lap1"/>-->
+
+<!--        <property name="lap" ref="lap1"></property>-->
     </bean>
 
-    <bean id="lap1" class="com.cursojava.Laptop">
+    <bean id="com" class="com.cursojava.Laptop" primary="true">
+    </bean>
+
+    <bean id="com1" class="com.cursojava.Desktop" lazy-init="true">
     </bean>
 </beans>
