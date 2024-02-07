@@ -1,6 +1,6 @@
 <h1>Curso de Java e Spring Boot </h1>
 <p>Repositório criado com o intuito de deixar os códigos realizados durante o curso "Java and Spring Framework for Beginners with Spring Boot", na plataforma Udemy</p>
-<p>Progresso do curso: 50%</p>
+<p>Progresso do curso: 55%</p>
 <p>Link do curso: https://www.udemy.com/course/spring-5-with-spring-boot-2/</p>
 
 <h2>Progresso Atual em relação as seções do curso</h2>
@@ -20,8 +20,8 @@
         <li>[X] Spring Security (Spring 5)</li>
         <li>[X] Getting Started with Spring 6 </li>
         <li>[X] Exploring Spring Framework</li>
-        <li>[ ] Working with Java-Based Config(EM ANDAMENTO)</li>
-        <li>[ ] Moving to Spring Boot</li>
+        <li>[X] Working with Java-Based Config</li>
+        <li>[ ] Moving to Spring Boot(EM ANDAMENTO)</li>
         <li>[ ] Spring JDBC</li>
         <li>[ ] Spring Boot Web</li>
         <li>[ ] Building a Project</li>
