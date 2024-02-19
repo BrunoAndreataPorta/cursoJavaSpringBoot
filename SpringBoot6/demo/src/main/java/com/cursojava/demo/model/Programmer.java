@@ -1,6 +1,7 @@
-package com.cursojava.demo;
+package com.cursojava.demo.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Value;
 
@@ -24,12 +25,13 @@ public class Programmer {
     }
 
     @Autowired
+    @Qualifier("laptop")
     public void setCom(Computer com) {
         this.com = com;
     }
 
     public void code(){
-        laptop.compile();
+        com.compile();
         
     }
 }

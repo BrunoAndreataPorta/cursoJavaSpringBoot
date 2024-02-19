@@ -1,4 +1,4 @@
-package com.cursojava.demo;
+package com.cursojava.demo.model;
 
 public interface Computer{
     void compile();

@@ -1,4 +1,4 @@
-package com.cursojava.demo;
+package com.cursojava.demo.model;
 
 import org.springframework.stereotype.Component;
 
