@@ -1,6 +1,6 @@
 package com.cursojava.demo.service;
 
-import com.cursojava.demo.LaptopRepository;
+import com.cursojava.demo.repo.LaptopRepository;
 import com.cursojava.demo.model.Laptop;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
