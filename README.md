@@ -22,8 +22,8 @@
         <li>[X] Exploring Spring Framework</li>
         <li>[X] Working with Java-Based Config</li>
         <li>[X] Moving to Spring Boot</li>
-        <li>[ ] Spring JDBC(EM ANDAMENTO)</li>
-        <li>[ ] Spring Boot Web</li>
+        <li>[X] Spring JDBC</li>
+        <li>[ ] Spring Boot Web(EM ANDAMENTO)</li>
         <li>[ ] Building a Project</li>
         <li>[ ] REST using Spring Boot</li>
         <li>[ ] Spring Data JPA</li>
