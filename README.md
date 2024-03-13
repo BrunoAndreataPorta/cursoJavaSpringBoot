@@ -23,8 +23,8 @@
         <li>[X] Working with Java-Based Config</li>
         <li>[X] Moving to Spring Boot</li>
         <li>[X] Spring JDBC</li>
-        <li>[ ] Spring Boot Web(EM ANDAMENTO)</li>
-        <li>[ ] Building a Project</li>
+        <li>[X] Spring Boot Web</li>
+        <li>[ ] Building a Project(EM ANDAMENTO)</li>
         <li>[ ] REST using Spring Boot</li>
         <li>[ ] Spring Data JPA</li>
         <li>[ ] Spring AOP</li>
